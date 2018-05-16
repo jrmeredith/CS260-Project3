@@ -1,0 +1,4 @@
+﻿  main.cpp
+s:\documents\school\18sp\cs 260\projects\project 3\cs260_project3\main.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+s:\documents\school\18sp\cs 260\projects\project 3\cs260_project3\main.cpp(182): warning C4715: 'Game::playGame': not all control paths return a value
+  CS260_Project3.vcxproj -> S:\Documents\School\18sp\CS 260\Projects\Project 3\CS260_Project3\Debug\CS260_Project3.exe
