@@ -35,3 +35,12 @@
 *.pdf
 *.zip
 *.docx
+
+# Visual Studio generated files
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.vs/
+debug/
+release/
